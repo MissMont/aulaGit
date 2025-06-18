@@ -1,2 +1,2 @@
 # aulaGit
-O petri tá ensinando como funciona o git :P
+O petri tá ensinando como funciona o git 😁

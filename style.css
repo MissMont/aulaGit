@@ -1,5 +1,27 @@
+body{
+    background-color: #fff4c1;
+}
+
+
+.divTitulo{
+    background-color: #bcc456;
+    padding: 20px 20px 20px;
+}
 
 .titulo{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;    
+    color: aliceblue;
+}
+
+.dino{
+    width: 350px;
+    height: 350px;
+    padding: 25px 1px;
+}
+
+.divDino{
+    display: flex;
+    gap: 35px;    
+    justify-content: center;
 }

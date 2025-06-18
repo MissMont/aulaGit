@@ -17,7 +17,14 @@ body{
 .dino{
     width: 350px;
     height: 350px;
-    padding: 25px 1px;
+    padding: 25px 1px;    
+    display: block;
+}
+
+img:hover{
+    width: 325px;
+    height: 325px;
+    opacity: 65%;
 }
 
 .divDino{
